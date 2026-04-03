@@ -1,0 +1,10 @@
+SET NOCOUNT ON;
+
+SELECT
+    *
+FROM
+    CITY
+WHERE
+    COUNTRYCODE = 'JPN';
+    
+go

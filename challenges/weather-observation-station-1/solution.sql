@@ -1,0 +1,9 @@
+SET NOCOUNT ON;
+
+SELECT
+    CITY,
+    STATE
+FROM
+    STATION;
+
+go

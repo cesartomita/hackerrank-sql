@@ -1,0 +1,8 @@
+SET NOCOUNT ON;
+
+SELECT
+    *
+FROM
+    CITY;
+
+go
