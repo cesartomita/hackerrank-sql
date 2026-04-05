@@ -11,6 +11,7 @@ Os problemas foram resolvidos com a linguagem T-SQL (SQL Server).
 | Full Score | Medium | SQL (Intermediate) | [README](challenges/full-score/README.md) | [T-SQL](challenges/full-score/solution.sql) |
 | Japanese Cities' Attributes | Easy | SQL (Basic) | [README](challenges/japanese-cities-attributes/README.md) | [T-SQL](challenges/japanese-cities-attributes/solution.sql) |
 | Japanese Cities' Names | Easy | SQL (Basic) | [README](challenges/japanese-cities-name/README.md) | [T-SQL](challenges/japanese-cities-name/solution.sql) |
+| Occupations | Medium | SQL (Basic) | [README](challenges/occupations/README.md) | [T-SQL](challenges/occupations/solution.sql) |
 | Revising the Select Query I | Easy | SQL (Basic) | [README](challenges/revising-the-select-query/README.md) | [T-SQL](challenges/revising-the-select-query/solution.sql) |
 | Revising the Select Query II | Easy | SQL (Basic) | [README](challenges/revising-the-select-query-2/README.md) | [T-SQL](challenges/revising-the-select-query-2/solution.sql) |
 | Select All | Easy | SQL (Basic) | [README](challenges/select-all-sql/README.md) | [T-SQL](challenges/select-all-sql/solution.sql) |
