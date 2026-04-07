@@ -8,6 +8,7 @@ Os problemas foram resolvidos com a linguagem T-SQL (SQL Server).
 
 | Problema | Nível | Categoria | Descrição | Solução |
 |----------|-------|-----------|--------|---------|
+| African Cities | Easy | SQL (Basic) | [README](challenges/african-cities/README.md) | [T-SQL](challenges/african-cities/solution.sql) |
 | Full Score | Medium | SQL (Intermediate) | [README](challenges/full-score/README.md) | [T-SQL](challenges/full-score/solution.sql) |
 | Japanese Cities' Attributes | Easy | SQL (Basic) | [README](challenges/japanese-cities-attributes/README.md) | [T-SQL](challenges/japanese-cities-attributes/solution.sql) |
 | Japanese Cities' Names | Easy | SQL (Basic) | [README](challenges/japanese-cities-name/README.md) | [T-SQL](challenges/japanese-cities-name/solution.sql) |
@@ -15,6 +16,7 @@ Os problemas foram resolvidos com a linguagem T-SQL (SQL Server).
 | Revising the Select Query I | Easy | SQL (Basic) | [README](challenges/revising-the-select-query/README.md) | [T-SQL](challenges/revising-the-select-query/solution.sql) |
 | Revising the Select Query II | Easy | SQL (Basic) | [README](challenges/revising-the-select-query-2/README.md) | [T-SQL](challenges/revising-the-select-query-2/solution.sql) |
 | Select All | Easy | SQL (Basic) | [README](challenges/select-all-sql/README.md) | [T-SQL](challenges/select-all-sql/solution.sql) |
+| The Blunder | Easy | SQL (Basic) | [README](challenges/the-blunder/README.md) | [T-SQL](challenges/the-blunder/solution.sql) |
 | Weather Observation Station 1 | Easy | SQL (Basic) | [README](challenges/weather-observation-station-1/README.md) | [T-SQL](challenges/weather-observation-station-1/solution.sql) |
 | Weather Observation Station 2 | Easy | SQL (Basic) | [README](challenges/weather-observation-station-2/README.md) | [T-SQL](challenges/weather-observation-station-2/solution.sql) |
 | Weather Observation Station 3 | Easy | SQL (Basic) | [README](challenges/weather-observation-station-3/README.md) | [T-SQL](challenges/weather-observation-station-3/solution.sql) |
