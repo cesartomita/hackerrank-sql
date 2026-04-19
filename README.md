@@ -14,18 +14,30 @@ Os problemas foram resolvidos com a linguagem **T-SQL** (SQL Server).
 |----------|-------|-----------|--------|---------|
 | 15 Days of Learning SQL | Hard | SQL (Advanced) | [README](challenges/15-days-of-learning-sql/README.md) | [T-SQL](challenges/15-days-of-learning-sql/solution.sql) |
 | African Cities | Easy | SQL (Basic) | [README](challenges/african-cities/README.md) | [T-SQL](challenges/african-cities/solution.sql) |
+| Average Population | Easy | SQL (Basic) | [README](challenges/average-population/README.md) | [T-SQL](challenges/average-population/solution.sql) |
 | Average Population of Each Continent | Easy | SQL (Basic) | [README](challenges/average-population-of-each-continent/README.md) | [T-SQL](challenges/average-population-of-each-continent/solution.sql) |
 | Binary Tree Nodes | Medium | SQL (Intermediate) | [README](challenges/binary-search-tree-1/README.md) | [T-SQL](challenges/binary-search-tree-1/solution.sql) |
-| Full Score | Medium | SQL (Intermediate) | [README](challenges/full-score/README.md) | [T-SQL](challenges/full-score/solution.sql) |
+| Employee Names | Easy | SQL (Basic) | [README](challenges/name-of-employees/README.md) | [T-SQL](challenges/name-of-employees/solution.sql) |
+| Employee Salaries | Easy | SQL (Basic) | [README](challenges/salary-of-employees/README.md) | [T-SQL](challenges/salary-of-employees/solution.sql) |
+| Higher Than 75 Marks | Easy | SQL (Basic) | [README](challenges/more-than-75-marks/README.md) | [T-SQL](challenges/more-than-75-marks/solution.sql) |
+| Japan Population | Easy | SQL (Basic) | [README](challenges/japan-population/README.md) | [T-SQL](challenges/japan-population/solution.sql) |
 | Japanese Cities' Attributes | Easy | SQL (Basic) | [README](challenges/japanese-cities-attributes/README.md) | [T-SQL](challenges/japanese-cities-attributes/solution.sql) |
 | Japanese Cities' Names | Easy | SQL (Basic) | [README](challenges/japanese-cities-name/README.md) | [T-SQL](challenges/japanese-cities-name/solution.sql) |
 | New Companies | Medium | SQL (Intermediate) | [README](challenges/the-company/README.md) | [T-SQL](challenges/the-company/solution.sql) |
-| Occupations | Medium | SQL (Basic) | [README](challenges/occupations/README.md) | [T-SQL](challenges/occupations/solution.sql) |
+| Occupations | Medium | Unknown | [README](challenges/occupations/README.md) | [T-SQL](challenges/occupations/solution.sql) |
+| Population Density Difference | Easy | SQL (Basic) | [README](challenges/population-density-difference/README.md) | [T-SQL](challenges/population-density-difference/solution.sql) |
+| Revising Aggregations - Averages | Easy | SQL (Basic) | [README](challenges/revising-aggregations-the-average-function/README.md) | [T-SQL](challenges/revising-aggregations-the-average-function/solution.sql) |
+| Revising Aggregations - The Count Function | Easy | SQL (Basic) | [README](challenges/revising-aggregations-the-count-function/README.md) | [T-SQL](challenges/revising-aggregations-the-count-function/solution.sql) |
+| Revising Aggregations - The Sum Function | Easy | SQL (Basic) | [README](challenges/revising-aggregations-sum/README.md) | [T-SQL](challenges/revising-aggregations-sum/solution.sql) |
 | Revising the Select Query I | Easy | SQL (Basic) | [README](challenges/revising-the-select-query/README.md) | [T-SQL](challenges/revising-the-select-query/solution.sql) |
 | Revising the Select Query II | Easy | SQL (Basic) | [README](challenges/revising-the-select-query-2/README.md) | [T-SQL](challenges/revising-the-select-query-2/solution.sql) |
 | Select All | Easy | SQL (Basic) | [README](challenges/select-all-sql/README.md) | [T-SQL](challenges/select-all-sql/solution.sql) |
+| Select By ID | Easy | SQL (Basic) | [README](challenges/select-by-id/README.md) | [T-SQL](challenges/select-by-id/solution.sql) |
 | The Blunder | Easy | SQL (Basic) | [README](challenges/the-blunder/README.md) | [T-SQL](challenges/the-blunder/solution.sql) |
+| The PADS | Medium | SQL (Basic) | [README](challenges/the-pads/README.md) | [T-SQL](challenges/the-pads/solution.sql) |
+| Top Competitors | Medium | SQL (Intermediate) | [README](challenges/full-score/README.md) | [T-SQL](challenges/full-score/solution.sql) |
 | Top Earners | Easy | SQL (Basic) | [README](challenges/earnings-of-employees/README.md) | [T-SQL](challenges/earnings-of-employees/solution.sql) |
+| Type of Triangle | Easy | SQL (Basic) | [README](challenges/what-type-of-triangle/README.md) | [T-SQL](challenges/what-type-of-triangle/solution.sql) |
 | Weather Observation Station 1 | Easy | SQL (Basic) | [README](challenges/weather-observation-station-1/README.md) | [T-SQL](challenges/weather-observation-station-1/solution.sql) |
 | Weather Observation Station 2 | Easy | SQL (Basic) | [README](challenges/weather-observation-station-2/README.md) | [T-SQL](challenges/weather-observation-station-2/solution.sql) |
 | Weather Observation Station 3 | Easy | SQL (Basic) | [README](challenges/weather-observation-station-3/README.md) | [T-SQL](challenges/weather-observation-station-3/solution.sql) |
