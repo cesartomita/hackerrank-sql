@@ -36,6 +36,7 @@ Os problemas foram resolvidos com a linguagem **T-SQL** (SQL Server).
 | Select By ID | Easy | SQL (Basic) | [README](challenges/select-by-id/README.md) | [T-SQL](challenges/select-by-id/solution.sql) |
 | The Blunder | Easy | SQL (Basic) | [README](challenges/the-blunder/README.md) | [T-SQL](challenges/the-blunder/solution.sql) |
 | The PADS | Medium | SQL (Basic) | [README](challenges/the-pads/README.md) | [T-SQL](challenges/the-pads/solution.sql) |
+| The Report | Medium | SQL (Intermediate) | [README](challenges/the-report/README.md) | [T-SQL](challenges/the-report/solution.sql) |
 | Top Competitors | Medium | SQL (Intermediate) | [README](challenges/full-score/README.md) | [T-SQL](challenges/full-score/solution.sql) |
 | Top Earners | Easy | SQL (Basic) | [README](challenges/earnings-of-employees/README.md) | [T-SQL](challenges/earnings-of-employees/solution.sql) |
 | Type of Triangle | Easy | SQL (Basic) | [README](challenges/what-type-of-triangle/README.md) | [T-SQL](challenges/what-type-of-triangle/solution.sql) |
