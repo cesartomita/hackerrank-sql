@@ -1,33 +1,26 @@
-# Occupations
+# More Than 75 Marks
 
-Pivot the **Occupation** column in **OCCUPATIONS** so that each **Name** is sorted alphabetically and displayed underneath its corresponding **Occupation**. The output should consist of four columns (`Doctor`, `Professor`, `Singer`, and `Actor`) in that specific order, with their respective names listed alphabetically under each column.
-
-Note: Print `NULL` when there are no more names corresponding to an occupation.
+Query the **Name** of any student in the **STUDENTS** table who scored higher than `75` marks. Order your output by the last three characters of each name. If two or more students both have names ending in the same last three characters (i.e. `Bobby`, `Robby`, etc.), secondary sort them by ascending **ID**.
 
 Input Format
 
-The **OCCUPATIONS** table is described as follows:
+The **STUDENTS** table is described as follows:
 
-![1775397321936](image/README/1775397321936.png)
+![1776617546435](image/README/1776617546435.png)
 
-**Occupation** will only contain one of the following values: `Doctor`, `Professor`, `Singer` or `Actor`.
-
-Sample Input
-
-![1775397329312](image/README/1775397329312.png)
+The **Name** column only contains uppercase (A-Z) and lowercase (a-z) letters.
 
 Sample Output
 
 ```text
-Jenny    Ashley     Meera  Jane
-Samantha Christeen  Priya  Julia
-NULL     Ketty      NULL   Maria
+Ashley
+Julia
+Belvet
 ```
 
+Ashley
+Julia
+Only Ashley, Julia, and Belvet have **Marks** > `75`. If you look at the last three characters of each of their names, there are no duplicates and `ley` < `lia` < `vet`.
 Explanation
 
-The first column is an alphabetically ordered list of Doctor names.
-The second column is an alphabetically ordered list of Professor names.
-The third column is an alphabetically ordered list of Singer names.
-The fourth column is an alphabetically ordered list of Actor names.
-The empty cell data for columns with less than the maximum number of names per occupation (in this case, the Professor and Actor columns) are filled with **NULL** values.
+Only Ashley, Julia, and Belvet have Marks > 75. If you look at the last three characters of each of their names, there are no duplicates and 'ley' < 'lia' < 'vet'.

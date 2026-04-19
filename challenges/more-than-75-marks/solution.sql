@@ -1,23 +1,13 @@
 SET NOCOUNT ON;
 
-WITH CTE_OCCUPATIONS AS
-(
-    SELECT
-        Name,
-        Occupation,
-        ROW_NUMBER() OVER(PARTITION BY Occupation ORDER BY Name) AS RN
-    FROM
-        OCCUPATIONS    
-)
 SELECT
-    PVT.Doctor,
-    PVT.Professor,
-    PVT.Singer,
-    PVT.Actor
+    Name
 FROM
-    CTE_OCCUPATIONS
-PIVOT (
-    MAX(Name) FOR Occupation IN ([Doctor], [Professor], [Singer], [Actor])
-) AS PVT;
+    STUDENTS
+WHERE
+    Marks > 75
+ORDER BY
+    RIGHT(Name, 3),
+    ID;
 
 go
