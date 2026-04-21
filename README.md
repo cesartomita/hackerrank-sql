@@ -12,6 +12,10 @@ Os problemas foram resolvidos com a linguagem **T-SQL** (SQL Server).
 
 | Problema | Nível | Categoria | README | Solução |
 |----------|-------|-----------|--------|---------|
+| Draw The Triangle 1 | Easy | SQL (Advanced) | [README](challenges/draw-the-triangle-1/README.md) | [T-SQL](challenges/draw-the-triangle-1/solution.sql) 🆕|
+| Draw The Triangle 2 | Easy | SQL (Advanced) | [README](challenges/draw-the-triangle-2/README.md) | [T-SQL](challenges/draw-the-triangle-2/solution.sql) 🆕|
+| Ollivander's Inventory | Medium | SQL (Intermediate) | [README](challenges/ollivanders-inventory/README.md) | [T-SQL](challenges/ollivanders-inventory/solution.sql) 🆕|
+| Print Prime Numbers | Medium | SQL (Advanced) | [README](challenges/print-prime-numbers/README.md) | [T-SQL](challenges/print-prime-numbers/solution.sql) 🆕|
 | 15 Days of Learning SQL | Hard | SQL (Advanced) | [README](challenges/15-days-of-learning-sql/README.md) | [T-SQL](challenges/15-days-of-learning-sql/solution.sql) |
 | African Cities | Easy | SQL (Basic) | [README](challenges/african-cities/README.md) | [T-SQL](challenges/african-cities/solution.sql) |
 | Asian Population | Unknown | Unknown | [README](challenges/asian-population/README.md) | [T-SQL](challenges/asian-population/solution.sql) |
@@ -41,6 +45,14 @@ Os problemas foram resolvidos com a linguagem **T-SQL** (SQL Server).
 | Top Earners | Easy | SQL (Basic) | [README](challenges/earnings-of-employees/README.md) | [T-SQL](challenges/earnings-of-employees/solution.sql) |
 | Type of Triangle | Easy | SQL (Basic) | [README](challenges/what-type-of-triangle/README.md) | [T-SQL](challenges/what-type-of-triangle/solution.sql) |
 | Weather Observation Station 1 | Easy | SQL (Basic) | [README](challenges/weather-observation-station-1/README.md) | [T-SQL](challenges/weather-observation-station-1/solution.sql) |
+| Weather Observation Station 2 | Easy | SQL (Basic) | [README](challenges/weather-observation-station-2/README.md) | [T-SQL](challenges/weather-observation-station-2/solution.sql) |
+| Weather Observation Station 3 | Easy | SQL (Basic) | [README](challenges/weather-observation-station-3/README.md) | [T-SQL](challenges/weather-observation-station-3/solution.sql) |
+| Weather Observation Station 4 | Easy | SQL (Basic) | [README](challenges/weather-observation-station-4/README.md) | [T-SQL](challenges/weather-observation-station-4/solution.sql) |
+| Weather Observation Station 5 | Easy | SQL (Intermediate) | [README](challenges/weather-observation-station-5/README.md) | [T-SQL](challenges/weather-observation-station-5/solution.sql) |
+| Weather Observation Station 6 | Easy | SQL (Basic) | [README](challenges/weather-observation-station-6/README.md) | [T-SQL](challenges/weather-observation-station-6/solution.sql) |
+| Weather Observation Station 7 | Easy | SQL (Basic) | [README](challenges/weather-observation-station-7/README.md) | [T-SQL](challenges/weather-observation-station-7/solution.sql) |
+| Weather Observation Station 8 | Easy | SQL (Basic) | [README](challenges/weather-observation-station-8/README.md) | [T-SQL](challenges/weather-observation-station-8/solution.sql) |
+| Weather Observation Station 9 | Easy | SQL (Basic) | [README](challenges/weather-observation-station-9/README.md) | [T-SQL](challenges/weather-observation-station-9/solution.sql) |
 | Weather Observation Station 10 | Easy | SQL (Basic) | [README](challenges/weather-observation-station-10/README.md) | [T-SQL](challenges/weather-observation-station-10/solution.sql) |
 | Weather Observation Station 11 | Easy | SQL (Basic) | [README](challenges/weather-observation-station-11/README.md) | [T-SQL](challenges/weather-observation-station-11/solution.sql) |
 | Weather Observation Station 12 | Easy | SQL (Basic) | [README](challenges/weather-observation-station-12/README.md) | [T-SQL](challenges/weather-observation-station-12/solution.sql) |
@@ -51,12 +63,4 @@ Os problemas foram resolvidos com a linguagem **T-SQL** (SQL Server).
 | Weather Observation Station 17 | Easy | SQL (Basic) | [README](challenges/weather-observation-station-17/README.md) | [T-SQL](challenges/weather-observation-station-17/solution.sql) |
 | Weather Observation Station 18 | Medium | SQL (Basic) | [README](challenges/weather-observation-station-18/README.md) | [T-SQL](challenges/weather-observation-station-18/solution.sql) |
 | Weather Observation Station 19 | Medium | SQL (Basic) | [README](challenges/weather-observation-station-19/README.md) | [T-SQL](challenges/weather-observation-station-19/solution.sql) |
-| Weather Observation Station 2 | Easy | SQL (Basic) | [README](challenges/weather-observation-station-2/README.md) | [T-SQL](challenges/weather-observation-station-2/solution.sql) |
 | Weather Observation Station 20 | Medium | SQL (Intermediate) | [README](challenges/weather-observation-station-20/README.md) | [T-SQL](challenges/weather-observation-station-20/solution.sql) |
-| Weather Observation Station 3 | Easy | SQL (Basic) | [README](challenges/weather-observation-station-3/README.md) | [T-SQL](challenges/weather-observation-station-3/solution.sql) |
-| Weather Observation Station 4 | Easy | SQL (Basic) | [README](challenges/weather-observation-station-4/README.md) | [T-SQL](challenges/weather-observation-station-4/solution.sql) |
-| Weather Observation Station 5 | Easy | SQL (Intermediate) | [README](challenges/weather-observation-station-5/README.md) | [T-SQL](challenges/weather-observation-station-5/solution.sql) |
-| Weather Observation Station 6 | Easy | SQL (Basic) | [README](challenges/weather-observation-station-6/README.md) | [T-SQL](challenges/weather-observation-station-6/solution.sql) |
-| Weather Observation Station 7 | Easy | SQL (Basic) | [README](challenges/weather-observation-station-7/README.md) | [T-SQL](challenges/weather-observation-station-7/solution.sql) |
-| Weather Observation Station 8 | Easy | SQL (Basic) | [README](challenges/weather-observation-station-8/README.md) | [T-SQL](challenges/weather-observation-station-8/solution.sql) |
-| Weather Observation Station 9 | Easy | SQL (Basic) | [README](challenges/weather-observation-station-9/README.md) | [T-SQL](challenges/weather-observation-station-9/solution.sql) |
