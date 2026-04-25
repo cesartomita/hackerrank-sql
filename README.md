@@ -12,10 +12,12 @@ Os problemas foram resolvidos com a linguagem **T-SQL** (SQL Server).
 
 | Problema | Nível | Categoria | README | Solução |
 |----------|-------|-----------|--------|---------|
-| Draw The Triangle 1 | Easy | SQL (Advanced) | [README](challenges/draw-the-triangle-1/README.md) | [T-SQL](challenges/draw-the-triangle-1/solution.sql) 🆕|
-| Draw The Triangle 2 | Easy | SQL (Advanced) | [README](challenges/draw-the-triangle-2/README.md) | [T-SQL](challenges/draw-the-triangle-2/solution.sql) 🆕|
-| Ollivander's Inventory | Medium | SQL (Intermediate) | [README](challenges/harry-potter-and-wands/README.md) | [T-SQL](challenges/harry-potter-and-wands/solution.sql) 🆕|
-| Print Prime Numbers | Medium | SQL (Advanced) | [README](challenges/print-prime-numbers/README.md) | [T-SQL](challenges/print-prime-numbers/solution.sql) 🆕|
+| Challenges | Medium | SQL (Intermediate) | [README](challenges/challenges/README.md) | [T-SQL](challenges/challenges/solution.sql) 🆕 |
+| Contest Leaderboard | Medium | SQL (Intermediate) | [README](challenges/contest-leaderboard/README.md) | [T-SQL](challenges/contest-leaderboard/solution.sql) 🆕 |
+| Draw The Triangle 1 | Easy | SQL (Advanced) | [README](challenges/draw-the-triangle-1/README.md) | [T-SQL](challenges/draw-the-triangle-1/solution.sql) |
+| Draw The Triangle 2 | Easy | SQL (Advanced) | [README](challenges/draw-the-triangle-2/README.md) | [T-SQL](challenges/draw-the-triangle-2/solution.sql) |
+| Ollivander's Inventory | Medium | SQL (Intermediate) | [README](challenges/harry-potter-and-wands/README.md) | [T-SQL](challenges/harry-potter-and-wands/solution.sql) |
+| Print Prime Numbers | Medium | SQL (Advanced) | [README](challenges/print-prime-numbers/README.md) | [T-SQL](challenges/print-prime-numbers/solution.sql) |
 | 15 Days of Learning SQL | Hard | SQL (Advanced) | [README](challenges/15-days-of-learning-sql/README.md) | [T-SQL](challenges/15-days-of-learning-sql/solution.sql) |
 | African Cities | Easy | SQL (Basic) | [README](challenges/african-cities/README.md) | [T-SQL](challenges/african-cities/solution.sql) |
 | Asian Population | Unknown | Unknown | [README](challenges/asian-population/README.md) | [T-SQL](challenges/asian-population/solution.sql) |
