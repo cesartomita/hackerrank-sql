@@ -1,0 +1,13 @@
+USE HACKERRANK;
+
+CREATE TABLE Functions (
+    X INT NOT NULL,
+    Y INT NOT NULL
+);
+
+INSERT INTO Functions (X, Y) VALUES (20, 20);
+INSERT INTO Functions (X, Y) VALUES (20, 20);
+INSERT INTO Functions (X, Y) VALUES (20, 21);
+INSERT INTO Functions (X, Y) VALUES (23, 22);
+INSERT INTO Functions (X, Y) VALUES (22, 23);
+INSERT INTO Functions (X, Y) VALUES (21, 20);
